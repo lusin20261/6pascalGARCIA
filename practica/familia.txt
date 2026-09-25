@@ -1,0 +1,5 @@
+1: mi mamá 
+2: mi papá
+3: mi perro
+4: mi conejo
+5: mi hermana
