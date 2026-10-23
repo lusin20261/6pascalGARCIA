@@ -1,0 +1,6 @@
+a = input("Escribe tu nombre: ")
+b = input("Escribe tu hobby favorito: ")
+c = input("Escribe tu pelicula favorita: ")
+d = input("Escribe tu animal favotito: ")
+e = input("Escribe tu personaje favorito: ")
+print("Hola",a, "tu pelicula favorita es",c, "tu pasatiempo es",b, "tu animal favorito es",d, "tu personaje favorito es",e)
